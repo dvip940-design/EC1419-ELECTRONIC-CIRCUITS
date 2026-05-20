@@ -9,7 +9,8 @@
 ## Tabulations
 
 ## Graph
-<img width="1600" height="848" alt="WhatsApp Image 2026-05-20 at 10 38 42" src="https://github.com/user-attachments/assets/5deff95b-b45f-4b1b-8c09-f6f476068416" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-05-20 at 10 55 36" src="https://github.com/user-attachments/assets/b6960e8c-7e5b-4103-9429-8ba458db5bab" />
+
 
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
