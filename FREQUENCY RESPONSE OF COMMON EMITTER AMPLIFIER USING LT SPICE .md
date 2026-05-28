@@ -27,7 +27,7 @@
 ## Tabulation
 
 ## Graph
-<img width="924" height="349" alt="image" src="https://github.com/user-attachments/assets/296f67b7-8e71-4b6a-9808-2001563f145d" />
+<img width="1919" height="946" alt="image" src="https://github.com/user-attachments/assets/c2c67bad-23a6-4580-a940-fc37dfa5c032" />
 
 
 
