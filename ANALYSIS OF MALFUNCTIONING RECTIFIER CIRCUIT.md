@@ -5,6 +5,8 @@
 
 
 ## ATTACH THE CORRECT CIRCUIT
+## Tabulation
+<img width="1242" height="798" alt="image" src="https://github.com/user-attachments/assets/af2e2475-53d7-4284-a5b6-51e2c3717901" />
 
 ## GRAPHS
 <img width="1276" height="1600" alt="WhatsApp Image 2026-06-05 at 09 48 19" src="https://github.com/user-attachments/assets/9e8702cd-6dac-4c01-a621-f27d7c31ed22" />
